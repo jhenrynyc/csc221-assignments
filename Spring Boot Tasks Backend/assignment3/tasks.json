@@ -1,0 +1,10 @@
+[
+  {
+    "description": "do homework",
+    "completed": true
+  },
+  {
+    "description": "do chores",
+    "completed": false
+  }
+]
